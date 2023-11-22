@@ -7,7 +7,4 @@ python train.py --batch_size 128 --data_path data/ --dataset f30k --Matching_dir
 
 ## Evaluation
 Run ```test.py``` to evaluate the trained models on f30k.
-
-```
-python test.py  --data_path data/ --dataset f30k 
 ```
